@@ -7,7 +7,7 @@ public class CryptLearning{
 	public static void main(String[] args) throws Exception{
 
 
-		String msg = "Pushing Message";
+		String msg = "messsaged changed";
 
 
 		MessageDigest md = MessageDigest.getInstance("SHA-256");
